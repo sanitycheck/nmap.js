@@ -114,7 +114,7 @@ interface _HostType extends BaseType {
 	os?: OsType[];
 	ports?: PortsType[];
 	smurf?: SmurfType[];
-	status: StatusType;
+	status: StatusType[];
 	tcpsequence?: TcpsequenceType[];
 	tcptssequence?: TcptssequenceType[];
 	times?: TimesType;
